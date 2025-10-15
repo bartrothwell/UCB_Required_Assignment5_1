@@ -5,7 +5,7 @@
 
 This README file summarizes the findings of an analysis of the program designed to deliver coupons to drivers for various establishments, based on driver attributes, and provides recommendations for the program implementation.
 
-Link to Jupyter Notebook with the full analysis:
+Link to Jupyter Notebook with the full analysis: https://github.com/bartrothwell/UCB_Required_Assignment5_1/blob/main/RequiredAssignment5_1_Rothwell.ipynb
 
 #### Plot of Primary Findings:
 ![](images/AcceptanceRateSummary.png)
